@@ -65,13 +65,3 @@ basic authentication logic.
 
 -   **Java** (Core Java, Random, Scanner)
 
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-**Ambalatharasan RM**\
-- 📧 Email: rmambalatharasan@gmail.com\
-- 💼
-[LinkedIn](https://www.linkedin.com/in/ambalatharasan-rm-54a942251)\
-- 🖥️ [Portfolio](https://bright-starburst-79e13d.netlify.app/)\
-- 🐙 [GitHub](https://github.com/Ambalatharasan/Ambalatharasan)
